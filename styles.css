@@ -245,3 +245,14 @@ img {
   margin: 0 auto 2rem;
   display: block;
 }
+
+/* Match project links to journal theme colors */
+.card h3 a {
+  color: #ad2a2a !important;
+  text-decoration: none;
+}
+
+.card h3 a:hover {
+  color: #8b2121 !important;
+  text-decoration: underline;
+}

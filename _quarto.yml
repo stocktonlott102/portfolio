@@ -4,7 +4,6 @@ project:
 
 website:
   title: ""
-  favicon: images/prototyping-favicon.png
   navbar:
     background: primary
     left:
@@ -15,7 +14,7 @@ website:
       - text: Projects
         menu:
           - href: projects/project-1.qmd
-            text: Name of my first app
+            text: Personalized To-do List
           #- href: projects/project-2.qmd
           #  text: Business Case Presentation
           #- href: projects/project-3.qmd
@@ -29,9 +28,12 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+          <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png?v=2">
+          <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png?v=2">
+          <link rel="shortcut icon" href="images/favicon.png?v=2">

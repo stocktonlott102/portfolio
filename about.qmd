@@ -4,14 +4,14 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/thumbnail_IMG_6929.jpg" alt="Stockton Lott" class="rounded-circle mb-3" width="240">
 
-<h1>Your Name</h1>
+<h1>Stockton Lott</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/stockton-lott/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/stocktonlott102" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,45 +19,103 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+As a Strategic Management student at BYU, I am driven by a passion for business and an eagerness to tackle complex challenges. I am confident that my Problem Solving, Communication, and Collaboration skills are a powerful combination that make me a strong contributor to any team.
+
+## Core Strengths
+
+### Problem Solving
+
+My passion for problem-solving is at the core of my professional drive. During my internship at Bass Pro Shops, I noticed that my manager was spending 15 hours each month manually compiling key performance indicators. Recognizing an opportunity for improvement, I leveraged my technical skills to code an automated solution using VBA and AI. This initiative not only reduced the monthly report generation time from 15 hours to just 5 minutes but also unlocked a new level of business intelligence. The trust I earned from this project led to further data analytics responsibilities, where I was able to automate additional reporting and build new dashboards and charts, providing visibility into employee performance. This experience solidified my ability to identify inefficiencies, solve complex problems with technical solutions, and create tangible value by unlocking new opportunities.
+
+### Collaboration
+
+Purposeful collaboration is the key to solving complex problems and achieving ambitious goals. During my internship at Solase Pickleball, a startup in its pre-launch phase, I was tasked with leading a team of four interns to generate product awareness and social media hype for our first shoe. Despite my limited background in marketing, I built an effective team grounded in principles of mutual respect and high standards. We set an ambitious goal of increasing our social media following by 500%. By fostering a culture of honest and direct feedback, we consistently tested new ideas, which turned our initial slow growth into a pivotal surge of followers. By the end of my internship, we had successfully grown our Instagram following from 300 to 1,500, and, post-launch, this result contributed to the company selling 1–3 shoes organically every single day. This experience strengthened my capacity for collaborative leadership, demonstrating my ability to drive team performance through honest feedback and high goals.
+
+### Communication
+
+Without clear communication, even the most innovative solutions can fail to gain traction. At Bass Pro Shops, my team was tasked with a website redesign project that would culminate in a presentation to a panel of 30 senior leaders. Our analysis revealed a significant opportunity to increase organic website traffic through improved SEO. To ensure this complex argument resonated with executives, I applied the Pyramid Principle, leading with our core recommendation and supporting it with synthesized data and easily digestible visuals. Following the presentation, our work received praise from multiple senior leaders for its clear message. Also, during my time as a volunteer representative for the Church of Jesus Christ of Latter-day Saints, I frequently gave presentations to groups of 70–100+ individuals, where I focused on mastering delivery, leveraging vocal variety, and purposeful body language. These experiences have honed my ability to translate complex data into clear visuals, master confident delivery, and consistently drive measurable results with any audience.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Bachelor of Science in Business Strategy**, Brigham Young University (Expected Apr 2027)
+- **GPA**: 3.96 / 4.00 | **ACT**: 32/36
+- **Organizations**: Management Consulting Association (Member), Finance Society (Member)
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Financial Analyst - Bass Pro Shops
+*Aug 2025 – Present*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Building financial databases and models that feed live Power BI dashboards, streamlining reporting and analysis
+- Built dashboards for 140 dealerships, tracking finance penetration to benchmark performance and drive improvements
+- Automated finance reporting with VBA and AI, reducing manager's workload by 20–30 hours/month
 
-#### Another Position - Company Name
-*Dates*
+#### Finance Intern - Bass Pro Shops
+*May 2025 – Aug 2025*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Created Excel charts and visualizations tracking financed boats, loan processor performance, and loan approval ratings
+- Analyzed website performance and recommended a redesign expected to increase SEO-driven traffic by 1M users
+- Supported CRM rollout by identifying workflow bottlenecks early to improve training, error detection, and data tracking
+- Processed 10+ boat loans weekly, coordinating with lenders and dealerships to ensure timely and accurate financing
+
+#### Growth Strategy Intern - Solase Pickleball
+*Jan 2025 – Apr 2025*
+
+- Led four interns in pre-launch marketing and preparation efforts, resulting in 1–3 daily organic sales post-launch
+- Increased social media following 5x (300 → 1,500) through targeted marketing strategies to boost brand awareness
+- Expanded email list 70% (200 → 340) by designing incentives and promotional campaigns to capture new leads
+- Surveyed 120 players and analyzed results to assess product-market fit and guide secondary product development
+
+#### Legal Assistant Intern - Bearnson & Caldwell
+*May 2024 – Aug 2024*
+
+- Assisted six paralegals with case and document preparation, ensuring accuracy and timely completion of all filings
+- Oversaw 40 active cases and coordinated new client file openings with attorneys, paralegals, and external parties
+- Digitized and archived 300+ outdated cases, streamlining record management and increasing available office space
+
+### Leadership & Volunteer Experience
+
+#### Self-Reliance Facilitator - The Church of Jesus Christ of Latter-day Saints
+*Sep 2025 – Present*
+
+- Facilitate weekly wellness classes for 8 young married couples, focusing on stress management and emotional resilience
+
+#### Volunteer Leader - Lifting Hands International
+*May 2023 – Aug 2023*
+
+- Organized a service project with a local church and youth, guiding 30 volunteers to hand-make 70 blankets for refugees
+- Directed logistics, coordinated materials, raised awareness, and managed volunteers to ensure project completion
+
+#### Volunteer Representative - The Church of Jesus Christ of Latter-day Saints
+*Nov 2020 – Nov 2022*
+
+- Supervised nine teams of 12–24 representatives, providing one-on-one coaching that increased core metrics by 50%
+- Delivered group trainings and presentations to 70–100+ individuals, improving productivity and outreach results
+- Reviewed Excel data across 9 regions with volunteer leaders to identify trends, develop solutions, and improve outcomes
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Advanced Excel (Pivot Tables, VBA)
+- AI-assisted coding (Claude, ChatGPT)
+- Programming languages (SQL, Python, HTML)
+- Data visualization (Power BI)
 
 **Soft Skills**
 - Communication and presentation
 - Cross-functional collaboration
 - Strategic thinking and problem-solving
+- Leadership and team management
+
+**Core Values**
+- Integrity
+- Problem Solving
+- Communication
+- Collaboration
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+I'm passionate about distance running (completed the 2024 Ogden Marathon), reading 1–2 books per month, and staying active through disc golf, fishing, hiking, and kickball. These activities help me maintain balance and recharge my battery.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm seeking opportunities in consulting, financial analysis, or product management where I can leverage my analytical skills, leadership experience, and passion for solving complex business challenges. I'm particularly interested in roles that combine data-driven decision making with strategic thinking to drive meaningful business impact.
